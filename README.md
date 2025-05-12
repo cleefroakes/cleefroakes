@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cleefroakes
+- 👋 Hi, I’m @cleef waudo
 - 👀 I’m interested in machine learning and data analysis
 - 🌱 I’m currently learning Biostatistics
 - 💞️ I’m looking to collaborate on machine learing and AI intergration.
